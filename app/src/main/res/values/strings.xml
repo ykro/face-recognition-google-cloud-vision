@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceDetectionGCV</string>
+    <string name="main.msg">Use the floating action button to select an image</string>
+    <string name="dialog_select_prompt">Choose a picture</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Gallery</string>
+</resources>
